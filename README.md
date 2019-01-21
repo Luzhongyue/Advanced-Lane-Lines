@@ -39,6 +39,7 @@ I then used the output objpoints and imgpoints to compute the camera calibration
 function,then use this distortion correction to the test image using the cv2.undistort() function.
 
 The result as below:
+
 ![](https://github.com/Luzhongyue/Advanced-Lane-Lines/blob/master/output_images/chessboard.jpg)
 
 ## Pipeline(single image)

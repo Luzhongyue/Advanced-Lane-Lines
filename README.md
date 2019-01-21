@@ -6,7 +6,9 @@
 
 ## Overview
 
-The goals / steps of this project are the following:
+In this project, the goal is to write a software pipeline to identify the lane boundaries in a video.
+
+The steps of this project are the following:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply a distortion correction to raw images.
